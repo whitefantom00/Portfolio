@@ -113,7 +113,7 @@ const Hero = () => {
               <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
                 <img
                   className=" w-[135px] md:w-[90px] circle-text"
-                  src=""
+                  src="https://i.postimg.cc/NjB2LQfV/3c2bf299-d8f3-4f5d-acb5-a06b693d56e9-removebg-preview.png"
                   alt=""
                 />
                 <FaPlay
