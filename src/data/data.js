@@ -10,13 +10,19 @@ export const data = [
     link: "https://www.canva.com/design/DAFlreNGXPc/yPr5FKUJR_njdtj3YVuszQ/edit?utm_content=DAFlreNGXPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
     git: "",
   },
-
-   {
+  {
     id: 2,
     img: 'https://i.postimg.cc/zXF6Yrdp/download.png',
     title: "Data Analysis",
     link: "https://colab.research.google.com/drive/1k1EUAEZxKyaClfWcIAF3IFzvva1iAkFz",
     git: "",
   },
-  
+  {
+    id: 3,
+    img: '',
+    title: "",
+    desc: "",
+    link: "",
+    git: "",
+  }
 ];
