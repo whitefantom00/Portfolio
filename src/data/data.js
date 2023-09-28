@@ -3,7 +3,7 @@
 export const data = [
 
   {
-    id: 1,
+    id: 2,
     img: 'https://i.postimg.cc/Wz3JWc55/Screenshot-2023-09-23-204409.png',
     title: "System Analysis",
     desc: "",
@@ -11,18 +11,10 @@ export const data = [
     git: "",
   },
   {
-    id: 2,
+    id: 1,
     img: 'https://i.postimg.cc/zXF6Yrdp/download.png',
     title: "Data Analysis",
     link: "https://colab.research.google.com/drive/1k1EUAEZxKyaClfWcIAF3IFzvva1iAkFz",
     git: "",
   },
-  {
-    id: 3,
-    img: '',
-    title: "",
-    desc: "",
-    link: "",
-    git: "",
-  }
 ];
