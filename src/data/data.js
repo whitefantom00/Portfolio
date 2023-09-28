@@ -1,7 +1,7 @@
 
 
 export const data = [
-
+  
   {
     id: 1,
     img: 'https://i.postimg.cc/Df5JmCw6/Screenshot-2023-09-23-204409.png',
