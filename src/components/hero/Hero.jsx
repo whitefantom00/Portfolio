@@ -41,7 +41,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              I'm an undergraduate student at Hanoi University of Science and Technology.
+              I'm an undergraduate student at Hanoi University of Science and Technology looking for internship opportunities.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
