@@ -10,4 +10,12 @@ export const data = [
     git: "",
   },
 
+   {
+    id: 2,
+    img: 'https://i.postimg.cc/zXF6Yrdp/download.png',
+    title: "Data Analysis",
+    link: "https://colab.research.google.com/drive/1k1EUAEZxKyaClfWcIAF3IFzvva1iAkFz",
+    git: "",
+  },
+  
 ];
