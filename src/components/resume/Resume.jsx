@@ -78,7 +78,7 @@ const Resume = () => {
                   Hanoi University of Science and Technology
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2021 - Year 2024
+                  Year 2021 - Now
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
                 As an undergraduate student, I have a good understanding of
