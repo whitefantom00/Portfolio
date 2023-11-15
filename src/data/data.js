@@ -21,7 +21,7 @@ export const data = [
    {
     id: 3,
     img: 'https://i.postimg.cc/wMqGHMHm/Screenshot-9.png',
-    title: "Stock Price Analysis",
+    title: "Complaination Analysis",
     desc: "This project is visualization of complaination of players in 12 different games that published by GAMOTA. The data used is crawled from CH Play.",
     link: "https://husteduvn-my.sharepoint.com/:p:/g/personal/vu_kh210946_sis_hust_edu_vn/ESJd-MmorQZHhjufZA0SZn4BtYHehlfQLyz_foy0HQNPqQ?e=qozxn5",
     git: "https://husteduvn-my.sharepoint.com/:u:/g/personal/vu_kh210946_sis_hust_edu_vn/EQL-cgfaG2NJkUHro2QLd78BAOtl9HvxGZNJdK54POVhsA",
