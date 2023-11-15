@@ -26,4 +26,12 @@ export const data = [
     link: "https://husteduvn-my.sharepoint.com/:p:/g/personal/vu_kh210946_sis_hust_edu_vn/ESJd-MmorQZHhjufZA0SZn4BtYHehlfQLyz_foy0HQNPqQ?e=qozxn5",
     git: "https://husteduvn-my.sharepoint.com/:u:/g/personal/vu_kh210946_sis_hust_edu_vn/EQL-cgfaG2NJkUHro2QLd78BAOtl9HvxGZNJdK54POVhsA",
   }, 
+   {
+    id: 4,
+    img: 'https://i.postimg.cc/X7Js8X8r/output.png',
+    title: "Customer EDA Analysis",
+    desc: "This project is ablout Customer EDA and Clustering. The data used is a sample dataset downloaded from Kaggle.",
+    link: "",
+    git: "https://github.com/whitefantom00/Customer-EDA-Report.git",
+  }, 
 ];
