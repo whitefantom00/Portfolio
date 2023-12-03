@@ -15,7 +15,7 @@ export const data = [
     img: 'https://i.postimg.cc/Cxj5k8hp/stock-markets-60999aa9.png',
     title: "Stock Price Analysis",
     desc: "This project is an application of LSTM Model to analyze and predict Stock Price of TNG. The data used is collected from CafeF.",
-    link: "https://www.kaggle.com/code/vkimmm/tng-and-rivals",
+    link: "https://www.kaggle.com/code/vkimmm/tng-and-rivals/notebook",
     git: "https://github.com/whitefantom00/TNG-Stock-Price-Analysis.git",
   },
    {
