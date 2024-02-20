@@ -50,7 +50,7 @@ const Skills = ({ darkMode }) => {
                 <ProgressBar
                   logo={<SiPowerbi />}
                   name={"Power BI"}
-                  value={60}
+                  value={80}
                 />
                 <ProgressBar logo={<SiMysql />} name={"My SQL"} value={60} />
                 <ProgressBar
