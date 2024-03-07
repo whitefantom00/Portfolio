@@ -46,7 +46,7 @@ export const data = [
     id: 6,
     img: 'https://i.postimg.cc/dQBKdrVM/Overview.png',
     title: "ETF Management",
-    desc: "This project is about ETF fund ma,
+    desc: "This project is about ETF fund management",
     link: "https://app.powerbi.com/view?r=eyJrIjoiYzczNzU3MjUtYmI4Yi00MmY1LWIxODEtOTRkMzVhYmNlZjEzIiwidCI6IjQxYWI0MmE5LTM4MWItNDhjZi04YTg1LTcyMDQ2NDkyMjk3NiIsImMiOjEwfQ%3D%3D",
     git: "https://app.powerbi.com/view?r=eyJrIjoiYzczNzU3MjUtYmI4Yi00MmY1LWIxODEtOTRkMzVhYmNlZjEzIiwidCI6IjQxYWI0MmE5LTM4MWItNDhjZi04YTg1LTcyMDQ2NDkyMjk3NiIsImMiOjEwfQ%3D%3D",
   }, 
