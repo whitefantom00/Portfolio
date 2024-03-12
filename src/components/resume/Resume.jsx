@@ -35,20 +35,18 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Business Analyst
+                  Business Intelligence Analyst
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  CenGroup
+                  KPIM Joinstock Company
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2023 - August 2023
+                  Sep 2023 - Mar 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                In my last internship at CenGroup, I
-                worked as a Business Analyst focusing on the
-                system analysis, where I work on gathering requirements
-                and data analysis. Additionally, I am responsible for
-                crawling data using Octoparse.
+                In my last internship at KPIM, I worked as a 
+                Business Intelligence Analyst focusing on BI Tools, 
+                I was responsible for gathering requirements and data analysis along with generating reports.
                 </p>
               </div>
             </div>
