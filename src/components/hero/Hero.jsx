@@ -21,7 +21,7 @@ const Hero = () => {
               data-aos="fade-up"
               className=" text-5xl font-bold sm:text-[2rem]"
             >
-              Hello, I'm Kim Vu
+              Hello, I'm Vu Kim
             </h2>
             <TypeAnimation
               data-aos="fade-up"
@@ -43,7 +43,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              I'm an undergraduate student at Hanoi University of Science and Technology looking for internship opportunities.
+              Data enthusiast with a strong foundation in SQL and Python, data visualization (Power BI), and analytical thinking. Eager to leverage these skills as a Fresher Data Analyst and unlock actionable insights for businesses.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
