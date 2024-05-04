@@ -52,11 +52,11 @@ const Skills = ({ darkMode }) => {
                   name={"Power BI"}
                   value={80}
                 />
-                <ProgressBar logo={<SiMysql />} name={"My SQL"} value={60} />
+                <ProgressBar logo={<SiMysql />} name={"My SQL"} value={70} />
                 <ProgressBar
-                  logo={<SiFigma />}
-                  name={"Figma"}
-                  value={30}
+                  logo={<SiPython />}
+                  name={"Python"}
+                  value={50}
                 />
               </div>
             </div>
@@ -65,10 +65,10 @@ const Skills = ({ darkMode }) => {
           <div className="right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
             <div className="first2 flex flex-col gap-10">
               <SkillBox
-                logo={<SiPython />}
+                logo={<SiFigma />}
                 black={"white"}
                 white={"black"}
-                skill={"Python"}
+                skill={"Figma"}
               />
               <SkillBox
                 logo={<SiMysql />}
