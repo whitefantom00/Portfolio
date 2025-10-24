@@ -4,6 +4,7 @@ import Footer from "../components/footer/Footer";
 import Hero from "../components/hero/Hero";
 import NavBar from "../components/navbar/NavBar";
 import Resume from "../components/resume/Resume";
+import Certifications from "../components/certifications/Certifications";
 import Skills from "../components/skills/Skills";
 import Work from "../components/work/Work";
 
@@ -19,6 +20,7 @@ const Home = () => {
       <Skills darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <Work darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <Resume darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
+      <Certifications darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <Contact darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
       <Footer darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
     </>
