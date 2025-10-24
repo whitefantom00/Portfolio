@@ -17,7 +17,7 @@ const Resume = () => {
       </div>
       {/* card*/}
       <div className="card-wrapper w-[90%] sm:w-full mt-5 flex md:flex-col sm:gap-5 mx-auto ">
-        <div className="left flex-1 flex items-center justify-center">
+        <div className="left flex-1 flex items-start justify-center">
           <fieldset
             data-aos="zoom-in"
             className=" w-[80%] p-5 py-12 sm:py-8 sm:w-full sm:p-2"
@@ -38,21 +38,39 @@ const Resume = () => {
                   Business Intelligence Analyst
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Elmich Joinstock Company
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  May 2024 - May 2025
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                I provided end-to-end data solutions. From requirements gathering to actions. Python and Cloud Run for ACID pipelines.
+                BigQuery and Power BI for actionable insights.
+                And Capcut for some sorts of user guides! Yes, video editing too.
+                </p>
+              </div>
+
+              {/* new experience block */}
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg mt-4">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Business Intelligence Analyst
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
                   KPIM Joinstock Company
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   Sep 2023 - Mar 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                In my last internship at KPIM, I worked as a 
-                Business Intelligence Analyst focusing on BI Tools, 
-                I was responsible for gathering requirements and data analysis along with generating reports.
+                  In my last internship at KPIM, I worked as a 
+                  Business Intelligence Analyst focusing on BI Tools, 
+                  I was responsible for gathering requirements and data analysis along with generating reports.
                 </p>
               </div>
             </div>
           </fieldset>
         </div>
-        <div className="right flex-1 flex items-center justify-center">
+  <div className="right flex-1 flex items-start justify-center">
           <fieldset
             data-aos="zoom-in"
             className=" w-[80%] p-5 py-12 sm:py-8 sm:w-full sm:p-2"
@@ -79,9 +97,7 @@ const Resume = () => {
                   Year 2021 - Now
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                As an undergraduate student, I have a good understanding of
-                Data analysis, Dashboards making, Reports writing and Requirement management.
-                Additionally, I'm proficient in Unified Modeling Language (UML) and Business Process Modeling Notation (BPMN)
+                HUST gave me a solid foundation in every aspect of data analysis. I appreciate every Mathematic courses that I have taken here. Yes, they're nightmareous even for an Ex - Math major like me but it help me anyway.
                 </p>
               </div>
             </div>

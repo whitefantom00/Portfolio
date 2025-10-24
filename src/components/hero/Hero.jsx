@@ -30,7 +30,7 @@ const Hero = () => {
                 2000,
                 "Data Analyst",
                 2000,
-                "Business Analyst",
+                "Analytics Engineer",
                 2000,
                 "",
               ]}
@@ -43,7 +43,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              Data enthusiast with a strong foundation in SQL and Python, data visualization (Power BI), and analytical thinking. Eager to leverage these skills as a Fresher Data Analyst and unlock actionable insights for businesses.
+               Data enthusiast with a strong foundation in SQL and Python, data visualization (Power BI), and analytical thinking, I have worked with some organizations, ensuring a grounded approach to my profession.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">

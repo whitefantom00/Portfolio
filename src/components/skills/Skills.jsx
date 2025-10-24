@@ -8,11 +8,13 @@ import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
 import {
   SiPowerbi,
   SiMysql,
-  SiFigma,
-  SiMicrosoftoffice,
-  SiMicrosoftvisio,
+  SiDocker,
+  SiDbt,
+  SiGooglecloud,
   SiPython,
   SiMicrosoftexcel,
+  SiGithub,
+  SiApacheairflow,
 } from "react-icons/si";
 import { GrCode } from "react-icons/gr";
 import { SiNextdotjs } from "react-icons/si";
@@ -45,18 +47,35 @@ const Skills = ({ darkMode }) => {
               className="progress flex items-center h-[100%] justify-end md:justify-center"
             >
               <div className=" flex flex-col gap-6  w-3/4  my-5 md:w-[90%]">
-                <ProgressBar logo={<SiMicrosoftoffice />} name={"Office"} value={90} />
-                <ProgressBar logo={<SiMicrosoftvisio />} name={"Visio"} value={88} />
+
                 <ProgressBar
                   logo={<SiPowerbi />}
                   name={"Power BI"}
-                  value={80}
+                  value={95}
                 />
-                <ProgressBar logo={<SiMysql />} name={"My SQL"} value={70} />
+
+                <ProgressBar 
+                  logo={<SiMicrosoftexcel />} 
+                  name={"Excel"} 
+                  value={95} 
+                />
+                
+                <ProgressBar 
+                  logo={<SiMysql />} 
+                  name={"SQL"} 
+                  value={90} 
+                />
+
+                <ProgressBar 
+                  logo={<SiDbt />} 
+                  name={"DBT"} 
+                  value={70} 
+                />
+
                 <ProgressBar
                   logo={<SiPython />}
                   name={"Python"}
-                  value={50}
+                  value={60}
                 />
               </div>
             </div>
@@ -65,33 +84,33 @@ const Skills = ({ darkMode }) => {
           <div className="right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
             <div className="first2 flex flex-col gap-10">
               <SkillBox
-                logo={<SiFigma />}
+                logo={<SiGooglecloud />}
                 black={"white"}
                 white={"black"}
-                skill={"Figma"}
+                skill={"Google Cloud"}
               />
               <SkillBox
-                logo={<SiMysql />}
+                logo={<SiDocker />}
                 black={"white"}
                 white={"black"}
-                skill={"MySQL"}
+                skill={"Docker"}
               />
             </div>
             <div className="last2 flex flex-col gap-10">
               <SkillBox
-                logo={<SiPowerbi />}
+                logo={<SiGithub />}
                 black={"black"}
                 white={"white"}
-                skill={"DAX"}
+                skill={"Github"}
               />
               <SkillBox
                 className=""
                 logo={
-                  <SiMicrosoftexcel />
+                  <SiApacheairflow />
                 }
                 black={"black"}
                 white={"white"}
-                skill={"Excel"}
+                skill={"Airflow"}
               />
               {/* <SkillBox
                 className=""
