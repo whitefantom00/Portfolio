@@ -38,13 +38,13 @@ module.exports = {
         // Change theme accent to #CC7722 (warm modern copper)
         // Keep `yellow` keys so existing classes like `text-yellow-500` still work.
         yellow: {
-          400: '#f4c430',
-          500: '#f4c430',
+          400: '#dda807ff',
+          500: '#dda807ff',
         },
         // Brand alias for future use
         brand: {
-          DEFAULT: '#f4c430',
-          dark: '#d8ad2a',
+          DEFAULT: '#dda807ff',
+          dark: '#e2ae12ff',
         },
       },
     },

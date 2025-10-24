@@ -28,13 +28,13 @@ html {
   scrollbar-color: white;
 }
 ::-webkit-scrollbar-thumb {
-  background: #f4c430;
+  background: #dda807ff;
   border-radius: 10px;
 }
 
 ::selection {
   color: white;
-  background: #f4c430;
+  background: #dda807ff;
 }
 
 
