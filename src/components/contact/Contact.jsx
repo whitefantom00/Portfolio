@@ -22,9 +22,8 @@ const Contact = () => {
             <div 
             data-aos="zoom-in"
             >
-              <h1 className="text-5xl font-bold sm:text-3xl">You Need</h1>
+              <h1 className="text-5xl font-bold sm:text-3xl">If You Need</h1>
               <h3 className="text-xl sm:text-lg">
-                Data Analyst Intern
               </h3>
             </div>
           </div>

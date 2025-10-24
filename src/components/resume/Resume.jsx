@@ -35,6 +35,21 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Analytics Engineer
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Gamota
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  May 2025 - Present
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                Another end-to-end data solution role. This time I acted as an ML Engineer someways too. Basically, I built dashboards using Retools, do some data transformations and modelling via Databricks and dbt. Sometimes I helped with some ML tasks using Python and PySpark.
+                </p>
+              </div>
+
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg mt-4">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
                   Business Intelligence Analyst
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
@@ -62,7 +77,7 @@ const Resume = () => {
                   Sep 2023 - Mar 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  In my last internship at KPIM, I worked as a 
+                  Just a part-time job but I learnt a lot. I worked as a
                   Business Intelligence Analyst focusing on BI Tools, 
                   I was responsible for gathering requirements and data analysis along with generating reports.
                 </p>
@@ -100,6 +115,22 @@ const Resume = () => {
                 HUST gave me a solid foundation in every aspect of data analysis. I appreciate every Mathematic courses that I have taken here. Yes, they're nightmareous even for an Ex - Math major like me but it help me anyway.
                 </p>
               </div>
+
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg mt-4">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Mathematics Major
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Nguyen Hue High School for Gifted Students
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  Year 2018 - 2021
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+                Three intensive years of mathematics specialization. This background provided me with strong analytical and problem-solving skills that I continue to use in data analytics.
+                </p>
+              </div>
+              
             </div>
           </fieldset>
         </div>

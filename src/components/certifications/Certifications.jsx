@@ -2,7 +2,6 @@ import React from "react";
 import {
   SiCoursera,
   SiGoogle,
-  SiIELTS,
   SiHackerrank,
   SiLinkedin,
   SiDatabricks,
@@ -13,8 +12,7 @@ const certs = [
   { id: 2, title: "Foundations of Data Science", issuer: "Google", link: "https://www.coursera.org/account/accomplishments/verify/UEHEYYSKJEH5", Icon: SiGoogle },
   { id: 3, title: "Business Analysis Foundations", issuer: "LinkedIn", link: "https://www.linkedin.com/learning/certificates/dbcb58618b41f703eba51832cce09dd390700a32d5796db058cb375f368a1817?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BLEYWqMETS6a2iFNMJisy5A%3D%3D", Icon: SiLinkedin },
   { id: 4, title: "Databricks Fundamentals Accreditation", issuer: "Databricks", link: "https://www.linkedin.com/in/vu-kim-a660b2280/details/certifications/1745908204576/single-media-viewer/?profileId=ACoAAERbjm4BPENf5c8ymn9pU3PZEBMvgddxI-0", Icon: SiDatabricks },
-  { id: 5, title: "SQL (Advanced) Certificate", issuer: "HackerRank", link: "https://www.hackerrank.com/certificates/2a9e13ad970c", Icon: SiHackerrank },
-  { id: 6, title: "IELTS 7.0", issuer: "IPD", link: "https://drive.google.com/file/d/1roT1g98e0yum8FS3Kj9rq0KVdgYaafRc/view?usp=sharing", Icon: SiIELTS },
+  { id: 5, title: "SQL (Advanced) Certificate", issuer: "HackerRank", link: "https://www.hackerrank.com/certificates/2a9e13ad970c", Icon: SiHackerrank }
 ];
 
 const Certifications = () => {
