@@ -109,7 +109,7 @@ const Resume = () => {
                   Hanoi University of Science and Technology
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2021 - Now
+                  Year 2021 - 2025
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
                 HUST gave me a solid foundation in every aspect of data analysis. I appreciate every Mathematic courses that I have taken here. Yes, they're nightmareous even for an Ex - Math major like me but it help me anyway.
